@@ -11,4 +11,9 @@ A fun web app created using HTML, CSS and Javascript to check if your birthday i
 * Designed a check button which calls function `checkBirthDateisLucky`
 * This function takes sum of digits of date of birth and checks if its divisible by lucky number
 * If its divisible then output message is displayed using `.innerText`
-
+ ### Technologies used:
+* HTML
+* CSS
+* JavaScript
+### Live link of project 
+[Here](https://markeleven.drishyaat.repl.co/)
